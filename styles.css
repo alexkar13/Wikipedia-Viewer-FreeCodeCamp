@@ -1,0 +1,47 @@
+body{
+  background: url(img/wiki-background.jpg) center center repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Indie Flower', cursive;
+}
+
+div.wrapper{
+  margin:0 auto;
+  padding: 20px 15%;
+}
+
+div#header{
+  background-color: white;
+  opacity: .95;
+  padding:15px;
+}
+div#search-bar{
+  display: flex;
+}
+
+.form-control{
+  background-color: grey;
+}
+
+
+ul#list-results{
+  list-style-type: none;
+  margin-top: 15px;
+  background-color: white;
+  opacity: .95;
+}
+
+li{
+  padding: 15px;
+  background-color: white;
+  opacity: .7;
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+#list-results a{
+  color: black;
+}
+p{
+  font-size: 16px;
+}
