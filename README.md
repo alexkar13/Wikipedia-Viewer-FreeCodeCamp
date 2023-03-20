@@ -1,4 +1,4 @@
-# Wikipedia-Viewer-FreeCodeCamp
+# Wikipedia-Viewer
 
 This wikipedia search app is an implementation of the FreeCodeCamp challenge [Wikipedia Viewer](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer).
 
